@@ -1,0 +1,6 @@
+{
+  "name": "StockPredict - Predictive Inventory System for Nigerian Retail SMEs",
+  "description": "A staged predictive inventory decision-support system designed for Nigerian retail SMEs, transitioning from transparent rule-based replenishment to machine learning (Linear Regression & Random Forest) with WhatsApp reorder alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
